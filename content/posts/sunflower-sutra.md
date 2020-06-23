@@ -1,6 +1,6 @@
 ---
 date: 2019-08-08T22:42:09.000+00:00
-title: Sunflower Sutra
+title: Chocolate Chip cookies
 author: Allen Ginsberg
 hero_image: "/content/images/og-image.jpg"
 
