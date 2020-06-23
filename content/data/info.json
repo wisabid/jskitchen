@@ -1,6 +1,6 @@
 {
-  "description": "<p>This blog was created using <a href=\"https://forestry.io/\" title=\"Forestry Link\">Forestry</a> &amp; <a href=\"https://www.gatsbyjs.org/\" title=\"Gatsby Link\">Gatsby</a></p>",
-  "cta": "<p>To get started, import this site into Forestry or checkout the repository <a href=\"https://github.com/kendallstrautman/starter-blog-gatsby\" title=\"Repo Url\">here</a>.</p>",
+  "description": "<p>This website is created using <a href=\"https://forestry.io/\" title=\"Forestry Link\">Forestry</a> &amp; <a href=\"https://www.gatsbyjs.org/\" title=\"Gatsby Link\">Gatsby</a></p>",
+  "cta": "<p>To get started, please subscribe to [this channel](<a href=\"https://www.youtube.com/channel/UCJB6kDkpZtiFQnMlAQVHenA\" title=\"https://www.youtube.com/channel/UCJB6kDkpZtiFQnMlAQVHenA\">https://www.youtube.com/channel/UCJB6kDkpZtiFQnMlAQVHenA</a>)</p>",
   "contact": {
     "email": "info@forestry.io",
     "twitter_handle": "forestryio",
