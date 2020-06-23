@@ -5,14 +5,6 @@ author: Allen Ginsberg
 hero_image: "/content/images/og-image.jpg"
 
 ---
----
-title: Chocolate Chip cookies
-slug: chocolate-chip-cookies
-date: 2019-09-23
-image: ./images/my-first-recipe.jpg
-tags: ["sweet", "easy"]
----
-
 <StyledParagraph>All time classic. If you have patience, freeze them the day before you plan to make them, this makes them crispy on the outside and chewy on the inside.</StyledParagraph>
 
 For great results, we recommend using [Pump Street Chocolate's Jamaica 75% pastilles](https://pumpstreetchocolate.com/products/dark-baking-pastilles-jamaica-75-bachelors-hall-estate) for the choc chips.
